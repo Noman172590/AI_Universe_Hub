@@ -1,0 +1,21 @@
+.font_familly{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.cardnamebetween{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.largemaking{
+          
+}
+
+.box-Shodow{
+
+   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+   padding: 5px;
+   text-align: center;
+   border-radius: 10px;
+}
